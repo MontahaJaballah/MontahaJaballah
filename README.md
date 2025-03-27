@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋Hi there! I'm a passionate IT Engineering student based in Tunisia,<br> constantly striving to grow and build a strong foundation in tech. <br>Through my university projects and internships, I’ve had the opportunity to explore<br>various facets of software development and bring creative ideas to life .<br>🌟 What I Do :<br>I specialize in web development (front-end and back-end) using tools like React, Node.js, HTML, CSS, and JavaScript. My projects focus on solving real-world challenges, such as smart systems and innovative platforms for startups.<br><br>🚀 Areas of Exploration:<br><br>Diving into the exciting fields of Machine Learning, Deep Learning, and Generative AI.<br>Expanding my skill set with DevOps practices, aiming to bridge development and operations for efficient workflows.<br>🎓 My Journey:<br>All my projects are built through hands-on experiences during university courses and internships, which have shaped my understanding and skills in technology. I'm still in the process of building myself, eager to learn and grow with each step forward.<br><br>💡 Dreams & Aspirations:<br>I aspire to combine my technical knowledge with entrepreneurial spirit to create impactful tools that empower others, drive innovation, and contribute to a sustainable future.<br><br>🌱 Fun Fact:<br>I love challenging myself with new tech and ideas. Whether it's brainstorming startup solutions or mastering the latest frameworks, I'm always ready to learn and innovate.<br><br>Let’s collaborate and create something extraordinary! 🚀✨<br> montaha.benjaballah@esprit.tn<br>
-
-
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=MontahaJaballah&color=blue)
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/montaha-jaballah/) 
 

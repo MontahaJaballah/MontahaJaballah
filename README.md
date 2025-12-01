@@ -117,6 +117,10 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
+<p align="center">
+  Credits: <a href="https://github.com/MontahaJaballah">Montaha Jaballah</a>
+</p>
+
 <!-- FOOTER WAVES -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=150&section=footer" />

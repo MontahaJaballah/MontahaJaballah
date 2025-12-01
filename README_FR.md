@@ -10,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=Développeuse+Full+Stack;Exploratrice+IA;Ingénieure+Logicielle;Transformer+les+Idées+en+Code" alt="Animation de frappe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=D%C3%A9veloppeuse%20Full%20Stack;Exploratrice%20IA;Ing%C3%A9nieure%20Logicielle;Transformer%20les%20Id%C3%A9es%20en%20Code" alt="Animation de frappe" />
 </p>
 
 ---
@@ -91,12 +91,19 @@ Mon travail allie ingénierie, design thinking et innovation, avec un intérêt 
 
 ---
 
-## 📊 Statistiques GitHub (Couleurs Pastel)
+## 📊 Statistiques GitHub 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Langages les plus utilisés" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="Statistiques GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=midnight-purple&hide_border=true" alt="Série GitHub" />
+</p>
 
 ---
 

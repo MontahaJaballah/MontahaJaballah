@@ -94,15 +94,15 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 ## 📊 GitHub Stats (Pastel Friendly)
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6)
+  <img src="https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=midnight-purple&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

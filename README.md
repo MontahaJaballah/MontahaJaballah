@@ -91,14 +91,14 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 📊 GitHub Stats (Pastel Friendly)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Top Languages" />
 </p>
 
 <p align="center">

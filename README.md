@@ -5,7 +5,7 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="assets/profile.jpg" alt="Profile Photo" width="160" style="border-radius: 12px;" />
+  <img src="assets/profile.png" alt="Profile Photo" width="160" style="border-radius: 12px;" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -101,23 +101,10 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 🎀 Featured Projects
-
-### 📌 Project 1
-Elegant description of your project, what problems it solves, and why it's cool.  
-[🔗 View Repository](#)
-
-### 📌 Project 2
-Short overview explaining the idea and functionality.  
-[🔗 View Repository](#)
-
----
-
 ## 💌 Connect with Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>

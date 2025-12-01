@@ -1,5 +1,33 @@
+<!-- HEADER WAVES -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7FF,100:D8C5FF&height=180&section=header&text=Montaha%20Jaballah&fontSize=48&fontColor=3A2C5A" />
+</p>
+
 <!-- PROFILE PHOTO -->
-<img src="assets/profile.png" alt="Profile Photo" width="160" align="right" style="border-radius: 12px;" />
+<p align="center">
+  <img src="assets/profile.jpg" alt="Profile Photo" width="160" style="border-radius: 12px;" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;AI+Explorer;Software+Engineer;Turning+Ideas+Into+Code" alt="Typing Animation" />
+</p>
+
+---
+
+## 🌐 Choose Your Language
+
+<div align="center">
+
+| Language | Flag |
+|---------|------|
+| [🇺🇸 EN-US](#) | <img src="https://flagcdn.com/us.svg" width="35"/> |
+| [🇫🇷 FR-FRA](#) | <img src="https://flagcdn.com/fr.svg" width="35"/> |
+| [🇸🇦 AR-SA](#) | <img src="https://flagcdn.com/sa.svg" width="35"/> |
+
+</div>
+
+---
 
 # 👋 Hi, I'm Montaha  
 **IT Engineering Student | Full-Stack Developer | Future AI/DevOps Engineer**
@@ -9,12 +37,12 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 🚀 About  
+## 🚀 About Me  
 - 🔧 Full-stack development using **React**, **Node.js**, **Express**, **TypeScript**, **Spring Boot**, **.NET**  
-- 🌱 Currently exploring **Machine Learning**, **Deep Learning**, and **Generative AI**  
+- 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**  
 - ⚙️ Building my DevOps foundation with CI/CD, containers, and automation  
 - 💡 Passionate about creating platforms that support startups, innovation, and digital transformation  
-- 🎯 Goal: engineer impactful tools that merge tech and entrepreneurship  
+- 🎯 Goal: engineer impactful tools merging tech and entrepreneurship  
 
 ---
 
@@ -63,22 +91,40 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 🔗 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)
-
----
-
-## 📈 GitHub Analytics  
+## 📊 GitHub Stats (Pastel Friendly)
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=MontahaJaballah&theme=dark&hide_border=true&show_icons=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=dark&hide_border=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&theme=dark&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6)
 
 </div>
 
 ---
 
+## 🎀 Featured Projects
+
+### 📌 Project 1
+Elegant description of your project, what problems it solves, and why it's cool.  
+[🔗 View Repository](#)
+
+### 📌 Project 2
+Short overview explaining the idea and functionality.  
+[🔗 View Repository](#)
+
+---
+
+## 💌 Connect with Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+---
+
+<!-- FOOTER WAVES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=blueviolet" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=150&section=footer" />
 </p>

@@ -5,21 +5,21 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="assets/profile.png" alt="Profile Photo" width="160" style="border-radius: 12px;" />
+  <img src="assets/profile.png" alt="صورة الملف الشخصي" width="160" style="border-radius: 12px;" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;AI+Explorer;Software+Engineer;Turning+Ideas+Into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=مطورة+Full+Stack;مستكشفة+الذكاء+الاصطناعي;مهندسة+برمجيات;تحويل+الأفكار+إلى+كود" alt="رسوم متحركة للكتابة" />
 </p>
 
 ---
 
-## 🌐 Choose Your Language
+## 🌐 اختر لغتك
 
 <div align="center">
 
-| Language | Flag |
+| اللغة | العلم |
 |---------|------|
 | [🇺🇸 EN-US](README.md) | <img src="https://flagcdn.com/us.svg" width="35"/> |
 | [🇫🇷 FR-FRA](README_FR.md) | <img src="https://flagcdn.com/fr.svg" width="35"/> |
@@ -29,26 +29,26 @@
 
 ---
 
-# 👋 Hi, I'm Montaha  
-**IT Engineering Student | Full-Stack Developer | Future AI/DevOps Engineer**
+# 👋 مرحباً، أنا منتهى
+**طالبة هندسة تكنولوجيا المعلومات | مطورة Full-Stack | مهندسة AI/DevOps مستقبلية**
 
-I build practical, user-focused digital products using modern web technologies.  
-My work blends engineering, design thinking, and innovation, with a growing interest in AI and automation.
-
----
-
-## 🚀 About Me  
-- 🔧 Full-stack development using **React**, **Node.js**, **Express**, **TypeScript**, **Spring Boot**, **.NET**  
-- 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**  
-- ⚙️ Building my DevOps foundation with CI/CD, containers, and automation  
-- 💡 Passionate about creating platforms that support startups, innovation, and digital transformation  
-- 🎯 Goal: engineer impactful tools merging tech and entrepreneurship  
+أقوم ببناء منتجات رقمية عملية ومركزة على المستخدم باستخدام تقنيات الويب الحديثة.  
+يجمع عملي بين الهندسة والتفكير التصميمي والابتكار، مع اهتمام متزايد بالذكاء الاصطناعي والأتمتة.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 عني
+- 🔧 تطوير Full-stack باستخدام **React**, **Node.js**, **Express**, **TypeScript**, **Spring Boot**, **.NET**  
+- 🌱 استكشاف **التعلم الآلي**, **التعلم العميق**, و **الذكاء الاصطناعي التوليدي**  
+- ⚙️ بناء أساس DevOps مع CI/CD والحاويات والأتمتة  
+- 💡 شغوفة بإنشاء منصات تدعم الشركات الناشئة والابتكار والتحول الرقمي  
+- 🎯 الهدف: هندسة أدوات مؤثرة تدمج التكنولوجيا وريادة الأعمال  
 
-### **Languages**
+---
+
+## 🛠️ حزمة التقنيات
+
+### **اللغات البرمجية**
 <p>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -74,13 +74,13 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
 </p>
 
-### **Databases**
+### **قواعد البيانات**
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### **Tools**
+### **الأدوات**
 <p>
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -91,16 +91,16 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 📊 GitHub Stats (Pastel Friendly)
+## 📊 إحصائيات GitHub (ألوان الباستيل)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="إحصائيات GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="اللغات الأكثر استخداماً" />
 </div>
 
 ---
 
-## 💌 Connect with Me
+## 💌 تواصل معي
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)

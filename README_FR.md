@@ -107,7 +107,14 @@ Mon travail allie ingénierie, design thinking et innovation, avec un intérêt 
 
 ---
 
-## 💌 Connectez-vous Avec Moi
+## � Vues de Profil
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=for-the-badge" alt="Vues de Profil" />
+</p>
+
+---
+
+## �💌 Connectez-vous Avec Moi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)

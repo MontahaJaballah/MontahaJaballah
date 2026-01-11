@@ -107,7 +107,14 @@ My work blends engineering, design thinking, and innovation, with a growing inte
 
 ---
 
-## 💌 Connect with Me
+## � Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## �💌 Connect with Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)

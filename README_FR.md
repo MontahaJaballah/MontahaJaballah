@@ -15,15 +15,28 @@
 
 ---
 
-## 🌐 Choisissez Votre Langue
-
 <div align="center">
+  
+### 🌐 Choisissez Votre Langue
 
-| Langue | Drapeau |
-|---------|------|
-| [🇺🇸 EN-US](README.md) | <img src="https://flagcdn.com/us.svg" width="35"/> |
-| [🇫🇷 FR-FRA](README_FR.md) | <img src="https://flagcdn.com/fr.svg" width="35"/> |
-| [🇸🇦 AR-SA](README_AR.md) | <img src="https://flagcdn.com/sa.svg" width="35"/> |
+<br>
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" height="40"/>
+  <img src="https://flagcdn.com/48x36/us.png" alt="US Flag" style="border-radius: 6px; margin-left: -15px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README_FR.md">
+  <img src="https://img.shields.io/badge/Français-E74C3C?style=for-the-badge&logo=google-translate&logoColor=white" alt="French" height="40"/>
+  <img src="https://flagcdn.com/48x36/fr.png" alt="FR Flag" style="border-radius: 6px; margin-left: -15px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README_AR.md">
+  <img src="https://img.shields.io/badge/العربية-27AE60?style=for-the-badge&logo=google-translate&logoColor=white" alt="Arabic" height="40"/>
+  <img src="https://flagcdn.com/48x36/sa.png" alt="SA Flag" style="border-radius: 6px; margin-left: -15px;"/>
+</a>
+
+<br>
 
 </div>
 

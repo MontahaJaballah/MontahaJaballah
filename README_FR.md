@@ -1,147 +1,192 @@
-<!-- HEADER WAVES -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7FF,100:D8C5FF&height=180&section=header&text=Montaha%20Jaballah&fontSize=48&fontColor=3A2C5A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7FF,100:D8C5FF&height=200&section=header&text=Montaha%20Ben%20Jaballah&fontSize=42&fontColor=3A2C5A&desc=Ing%C3%A9nieure%20Solutions%20IA&descSize=20&descAlignY=62" />
 </p>
 
-<!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="assets/profile.png" alt="Photo de profil" width="160" style="border-radius: 12px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C7A7F8&center=true&vCenter=true&repeat=true&width=560&lines=Syst%C3%A8mes+LLM+multi-agents+en+production;Pipelines+RAG+sur+pgvector;D%C3%A9ploy%C3%A9s+sur+Kubernetes+avec+GitOps;3-5+jours-expert+%E2%86%92+2+minutes" alt="Animation de frappe" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=D%C3%A9veloppeuse%20Full%20Stack;Exploratrice%20IA;Ing%C3%A9nieure%20Logicielle;Transformer%20les%20Id%C3%A9es%20en%20Code" alt="Animation de frappe" />
+  <a href="README.md"><img src="https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="English" /></a>
+  &nbsp;
+  <a href="README_FR.md"><img src="https://img.shields.io/badge/Français-E74C3C?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="Français" /></a>
+  &nbsp;
+  <a href="README_AR.md"><img src="https://img.shields.io/badge/العربية-27AE60?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="العربية" /></a>
+</p>
+
+<p align="center">
+  <a href="https://montaha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D8C5FF?style=for-the-badge&logo=vercel&logoColor=3A2C5A" height="28" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/montaha-jaballah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:montaha.benjaballah@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 </p>
 
 ---
 
-<div align="center">
-  
-### 🌐 Choisissez Votre Langue
+## 👋 À propos
 
-<br>
+Je construis des **systèmes propulsés par LLM et je les déploie en production** —
+pas des démos.
 
-<a href="README.md">
-  <img src="https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" height="40"/>
-  <img src="https://flagcdn.com/48x36/us.png" alt="US Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README_FR.md">
-  <img src="https://img.shields.io/badge/Français-E74C3C?style=for-the-badge&logo=google-translate&logoColor=white" alt="French" height="40"/>
-  <img src="https://flagcdn.com/48x36/fr.png" alt="FR Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README_AR.md">
-  <img src="https://img.shields.io/badge/العربية-27AE60?style=for-the-badge&logo=google-translate&logoColor=white" alt="Arabic" height="40"/>
-  <img src="https://flagcdn.com/48x36/sa.png" alt="SA Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
+Lors d'une mission de six mois chez **Devoteam**, j'ai pris un processus de
+réponse aux appels d'offres, lourd en documents, de la définition du problème
+jusqu'à un système en fonctionnement : un pipeline LLM multi-agents, de la
+recherche sur une base vectorielle, des API et un déploiement Kubernetes
+réellement utilisé.
 
-<br>
+Ce qui m'intéresse : savoir si la recherche et la notation **tiennent face à un
+usage réel** plutôt qu'en démonstration. Sur mon dernier projet, cela a signifié
+auditer mon propre modèle de notation — et découvrir que trois de ses six
+dimensions renvoyaient des valeurs quasi constantes, ne mesurant rien.
 
-</div>
+> *Un indicateur qui produit une valeur plausible n'est pas nécessairement un
+> indicateur qui mesure quelque chose.*
+
+📍 Tunisie · 🌍 **Ouverte à la mobilité (UE / télétravail)** · 🗣️ Arabe (natif) · Français · Anglais
 
 ---
 
-# 👋 Salut, je suis Montaha  
-**Étudiante en Génie Informatique | Développeuse Full-Stack | Future Ingénieure IA/DevOps**
+## 🚀 Projets en vedette
 
-Je crée des produits numériques pratiques et centrés sur l'utilisateur en utilisant les technologies web modernes.  
-Mon travail allie ingénierie, design thinking et innovation, avec un intérêt croissant pour l'IA et l'automatisation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 BidOrq · Projet de fin d'études
+**Plateforme IA multi-agents pour les appels d'offres**
+
+Pipeline **LangGraph** à trois agents avec boucle d'auto-correction
+bornée, **RAG** sur **pgvector**, déployé sur **K3s** en GitOps.
+
+`3–5 jours-expert → ~2 min` · `−46% de latence` · `114 tests`
+
+<sub>LangGraph · Ollama · FastAPI · pgvector · Celery · K3s · ArgoCD · Istio</sub>
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📞 MediCall AI
+**Assistant vocal pour rendez-vous médicaux**
+
+Architecture hybride **FSM + LLM** — les machines à états rendent
+la conversation prévisible, le LLM gère la compréhension.
+Limite les hallucinations par conception.
+
+[**Démo en ligne →**](https://medi-call-ai.vercel.app/)
+
+<sub>Next.js 14 · TypeScript · Groq LLaMA 3.1 70B · PostgreSQL</sub>
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 ISECA
+**Plateforme de conformité Azure / M365**
+
+Évaluation automatisée de la posture de sécurité via l'API
+Microsoft Graph, avec analyses planifiées et rapports générés.
+
+`91% de temps gagné` · `+18% de score de sécurité`
+
+<sub>React · ASP.NET Core · PostgreSQL · Graph API · Jenkins</sub>
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🧠 Système d'ontologie médicale
+**Raisonnement web sémantique assisté par IA**
+
+Conversion langage naturel → **SPARQL** sur une ontologie OWL,
+servie depuis Apache Fuseki.
+
+<sub>React · Flask · Apache Fuseki · Ollama · SPARQL · OWL</sub>
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://montaha-portfolio.vercel.app"><b>Voir tous les projets, captures et architecture →</b></a>
+</p>
 
 ---
 
-## 🚀 À Propos de Moi  
-- 🔧 Développement full-stack avec **React**, **Node.js**, **Express**, **TypeScript**, **Spring Boot**, **.NET**  
-- 🌱 J'explore le **Machine Learning**, le **Deep Learning** et l'**IA Générative**  
-- ⚙️ Je construis ma base DevOps avec CI/CD, conteneurs et automatisation  
-- 💡 Passionnée par la création de plateformes qui soutiennent les startups, l'innovation et la transformation numérique  
-- 🎯 Objectif : créer des outils impactants fusionnant technologie et entrepreneuriat  
+## 🛠️ Stack technique
+
+**IA / ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="42" />
+
+`LangGraph` `RAG` `Ollama` `pgvector` `sentence-transformers` `spaCy` `HDBSCAN` `prompt engineering` `évaluation de modèles`
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,express,dotnet,spring&theme=dark" height="42" />
+
+`Celery` `Redis` `REST` `GraphQL` `Server-Sent Events` `Alembic` `pytest`
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,angular&theme=dark" height="42" />
+
+**Données**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" height="42" />
+
+`pgvector` `indexation HNSW` `recherche par similarité vectorielle` `Row-Level Security`
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,aws,githubactions,jenkins,grafana,prometheus,linux&theme=dark" height="42" />
+
+`K3s` `ArgoCD (GitOps)` `Istio (mTLS)` `Helm` `Kyverno` `Velero` `Loki` `Terraform` `Ansible`
 
 ---
 
-## 🛠️ Stack Technologique
+## 📜 Certifications
 
-### **Langages**
 <p>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-### **Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### **Backend & DevOps**
-<p>
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-</p>
-
-### **Bases de Données**
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### **Outils**
-<p>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Apps_%26_Agents_Developer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-OCI_2025_DevOps_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-OCI_2025_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-FF6B00?style=flat-square&logo=aviato&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/NVIDIA-NLP_Transformers_·_Deep_Learning_×2-76B900?style=flat-square&logo=nvidia&logoColor=white" height="26" />
 </p>
 
 ---
 
-## 📊 Statistiques GitHub 
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="Statistiques GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=midnight-purple&hide_border=true" alt="Série GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&locale=fr" height="165" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&langs_count=8&locale=fr" height="165" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
-## � Vues de Profil
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=for-the-badge" alt="Vues de Profil" />
+  <b>Ouverte aux postes en IA/ML et ingénierie de plateforme — Europe, télétravail ou hybride.</b>
+  <br/><br/>
+  <a href="mailto:montaha.benjaballah@esprit.tn">montaha.benjaballah@esprit.tn</a>
+  &nbsp;·&nbsp;
+  <a href="https://montaha-portfolio.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/montaha-jaballah/">LinkedIn</a>
 </p>
 
----
-
-## �💌 Connectez-vous Avec Moi
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
 <p align="center">
-  Crédits : <a href="https://github.com/MontahaJaballah">Montaha Jaballah</a>
+  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=flat-square&label=Vues+du+profil" alt="Vues du profil" />
 </p>
 
-<!-- FOOTER WAVES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=140&section=footer" />
 </p>

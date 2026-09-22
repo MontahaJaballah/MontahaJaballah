@@ -164,15 +164,6 @@ servie depuis Apache Fuseki.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&locale=fr" height="165" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&langs_count=8&locale=fr" height="165" alt="Langages les plus utilisés" />
-</p>
-
----
-
 <p align="center">
   <b>Ouverte aux postes en IA/ML et ingénierie de plateforme — Europe, télétravail ou hybride.</b>
   <br/><br/>

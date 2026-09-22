@@ -191,19 +191,6 @@
 
 ---
 
-<div dir="rtl">
-
-## 📊 إحصائيات GitHub
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000" height="165" alt="إحصائيات GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&langs_count=8" height="165" alt="اللغات الأكثر استخداماً" />
-</p>
-
----
-
 <p align="center">
   <b>منفتحة على وظائف الذكاء الاصطناعي وهندسة المنصات — أوروبا، عن بُعد، أو هجين.</b>
   <br/><br/>

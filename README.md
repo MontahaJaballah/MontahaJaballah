@@ -1,147 +1,190 @@
-<!-- HEADER WAVES -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7FF,100:D8C5FF&height=180&section=header&text=Montaha%20Jaballah&fontSize=48&fontColor=3A2C5A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D7FF,100:D8C5FF&height=200&section=header&text=Montaha%20Ben%20Jaballah&fontSize=42&fontColor=3A2C5A&desc=AI%20Solution%20Engineer&descSize=20&descAlignY=62" />
 </p>
 
-<!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="assets/profile.png" alt="Profile Photo" width="160" style="border-radius: 12px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C7A7F8&center=true&vCenter=true&repeat=true&width=560&lines=Multi-agent+LLM+systems+in+production;RAG+pipelines+over+pgvector;Shipped+on+Kubernetes+with+GitOps;3-5+expert-days+%E2%86%92+2+minutes" alt="Typing animation" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C7A7F8&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;AI+Explorer;Software+Engineer;Turning+Ideas+Into+Code" alt="Typing Animation" />
+  <a href="README.md"><img src="https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="English" /></a>
+  &nbsp;
+  <a href="README_FR.md"><img src="https://img.shields.io/badge/Français-E74C3C?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="Français" /></a>
+  &nbsp;
+  <a href="README_AR.md"><img src="https://img.shields.io/badge/العربية-27AE60?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" alt="العربية" /></a>
+</p>
+
+<p align="center">
+  <a href="https://montaha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D8C5FF?style=for-the-badge&logo=vercel&logoColor=3A2C5A" height="28" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/montaha-jaballah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:montaha.benjaballah@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 </p>
 
 ---
 
-<div align="center">
-  
-### 🌐 Choose Your Language
+## 👋 About
 
-<br>
+I build **LLM-powered systems and ship them to production** — not demos.
 
-<a href="README.md">
-  <img src="https://img.shields.io/badge/English-4A90E2?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" height="40"/>
-  <img src="https://flagcdn.com/48x36/us.png" alt="US Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README_FR.md">
-  <img src="https://img.shields.io/badge/Français-E74C3C?style=for-the-badge&logo=google-translate&logoColor=white" alt="French" height="40"/>
-  <img src="https://flagcdn.com/48x36/fr.png" alt="FR Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README_AR.md">
-  <img src="https://img.shields.io/badge/العربية-27AE60?style=for-the-badge&logo=google-translate&logoColor=white" alt="Arabic" height="40"/>
-  <img src="https://flagcdn.com/48x36/sa.png" alt="SA Flag" style="border-radius: 6px; margin-left: -15px;"/>
-</a>
+Over a six-month engagement at **Devoteam**, I took a document-heavy proposal
+workflow from problem definition to a running system: a multi-agent LLM pipeline,
+retrieval over a vector database, APIs, and a Kubernetes deployment people
+actually use.
 
-<br>
+What I care about: whether retrieval and scoring **hold up under real usage**
+rather than in a demo. On my last project that meant auditing my own scoring
+model — and finding that three of its six dimensions were returning near-constant
+values, measuring nothing.
 
-</div>
+> *An indicator that produces a plausible value is not necessarily an indicator
+> that measures something.*
+
+📍 Tunisia · 🌍 **Open to relocation (EU / remote)** · 🗣️ Arabic (native) · French · English
 
 ---
 
-# 👋 Hi, I'm Montaha  
-**IT Engineering Student | Full-Stack Developer | Future AI/DevOps Engineer**
+## 🚀 Featured Work
 
-I build practical, user-focused digital products using modern web technologies.  
-My work blends engineering, design thinking, and innovation, with a growing interest in AI and automation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 BidOrq · Graduation Project
+**Multi-agent AI platform for RFP automation**
+
+Three-agent **LangGraph** pipeline with a bounded self-correction
+loop, **RAG** over **pgvector**, deployed on **K3s** with GitOps.
+
+`3–5 expert-days → ~2 min` · `−46% latency` · `114 tests`
+
+<sub>LangGraph · Ollama · FastAPI · pgvector · Celery · K3s · ArgoCD · Istio</sub>
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📞 MediCall AI
+**Voice assistant for medical appointments**
+
+Hybrid **FSM + LLM** architecture — state machines keep the
+conversation predictable, the LLM handles understanding.
+Constrains hallucination by design.
+
+[**Live demo →**](https://medi-call-ai.vercel.app/)
+
+<sub>Next.js 14 · TypeScript · Groq LLaMA 3.1 70B · PostgreSQL</sub>
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 ISECA
+**Azure / M365 compliance platform**
+
+Automated security posture assessment via Microsoft Graph API,
+with scheduled scans and report generation.
+
+`91% time saved` · `+18% security score`
+
+<sub>React · ASP.NET Core · PostgreSQL · Graph API · Jenkins</sub>
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🧠 Medical Ontology System
+**Semantic web reasoning with AI**
+
+Natural-language → **SPARQL** conversion over an OWL ontology,
+served from Apache Fuseki.
+
+<sub>React · Flask · Apache Fuseki · Ollama · SPARQL · OWL</sub>
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://montaha-portfolio.vercel.app"><b>See all projects, with screenshots and architecture →</b></a>
+</p>
 
 ---
 
-## 🚀 About Me  
-- 🔧 Full-stack development using **React**, **Node.js**, **Express**, **TypeScript**, **Spring Boot**, **.NET**  
-- 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**  
-- ⚙️ Building my DevOps foundation with CI/CD, containers, and automation  
-- 💡 Passionate about creating platforms that support startups, innovation, and digital transformation  
-- 🎯 Goal: engineer impactful tools merging tech and entrepreneurship  
+## 🛠️ Stack
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="42" />
+
+`LangGraph` `RAG` `Ollama` `pgvector` `sentence-transformers` `spaCy` `HDBSCAN` `prompt engineering` `model evaluation`
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,express,dotnet,spring&theme=dark" height="42" />
+
+`Celery` `Redis` `REST` `GraphQL` `Server-Sent Events` `Alembic` `pytest`
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,angular&theme=dark" height="42" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" height="42" />
+
+`pgvector` `HNSW indexing` `vector similarity search` `Row-Level Security`
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,aws,githubactions,jenkins,grafana,prometheus,linux&theme=dark" height="42" />
+
+`K3s` `ArgoCD (GitOps)` `Istio (mTLS)` `Helm` `Kyverno` `Velero` `Loki` `Terraform` `Ansible`
 
 ---
 
-## 🛠️ Tech Stack
+## 📜 Certifications
 
-### **Languages**
 <p>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-### **Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### **Backend & DevOps**
-<p>
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-</p>
-
-### **Databases**
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### **Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Apps_%26_Agents_Developer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-OCI_2025_DevOps_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-OCI_2025_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-FF6B00?style=flat-square&logo=aviato&logoColor=white" height="26" />
+  <br/>
+  <img src="https://img.shields.io/badge/NVIDIA-Transformer--Based_NLP_·_Deep_Learning_×2-76B900?style=flat-square&logo=nvidia&logoColor=white" height="26" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MontahaJaballah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MontahaJaballah&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=C7A7F8&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MontahaJaballah&layout=compact&theme=midnight-purple&hide_border=true&title_color=D8C5FF&text_color=EDE7F6&bg_color=00000000&langs_count=8" height="165" alt="Top languages" />
 </p>
 
 ---
 
-## � Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=for-the-badge" alt="Profile Views" />
+  <b>Open to AI/ML and platform engineering roles — Europe, remote, or hybrid.</b>
+  <br/><br/>
+  <a href="mailto:montaha.benjaballah@esprit.tn">montaha.benjaballah@esprit.tn</a>
+  &nbsp;·&nbsp;
+  <a href="https://montaha-portfolio.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/montaha-jaballah/">LinkedIn</a>
 </p>
 
----
-
-## �💌 Connect with Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaha-jaballah/)
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
 <p align="center">
-  Credits: <a href="https://github.com/MontahaJaballah">Montaha Jaballah</a>
+  <img src="https://komarev.com/ghpvc/?username=MontahaJaballah&color=D8C5FF&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-<!-- FOOTER WAVES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C5FF,100:F9D7FF&height=140&section=footer" />
 </p>
